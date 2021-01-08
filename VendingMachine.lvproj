@@ -16,10 +16,14 @@
 		<Item Name="Money Module" Type="Folder">
 			<Item Name="Money.lvlib" Type="Library" URL="../Libraries/Money/Money.lvlib"/>
 		</Item>
+		<Item Name="Stock Module" Type="Folder">
+			<Item Name="Stock.lvlib" Type="Library" URL="../Libraries/Stock/Stock.lvlib"/>
+		</Item>
 		<Item Name="Tester" Type="Folder">
 			<Item Name="Test Keypad API.vi" Type="VI" URL="../Libraries/Keypad/Test Keypad API.vi"/>
 			<Item Name="Test Money API.vi" Type="VI" URL="../Libraries/Money/Test Money API.vi"/>
 		</Item>
+		<Item Name="Test Stock API.vi" Type="VI" URL="../Libraries/Stock/Test Stock API.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AddNamedRendezvousPrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/AddNamedRendezvousPrefix.vi"/>
