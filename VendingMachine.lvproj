@@ -22,8 +22,8 @@
 		<Item Name="Tester" Type="Folder">
 			<Item Name="Test Keypad API.vi" Type="VI" URL="../Libraries/Keypad/Test Keypad API.vi"/>
 			<Item Name="Test Money API.vi" Type="VI" URL="../Libraries/Money/Test Money API.vi"/>
+			<Item Name="Test Stock API.vi" Type="VI" URL="../Libraries/Stock/Test Stock API.vi"/>
 		</Item>
-		<Item Name="Test Stock API.vi" Type="VI" URL="../Libraries/Stock/Test Stock API.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="AddNamedRendezvousPrefix.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/rendezvs.llb/AddNamedRendezvousPrefix.vi"/>
